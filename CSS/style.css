@@ -28,14 +28,6 @@ html,body{
   background-position: 0.6em 0.35em, 0.7em 0.6em;
   background-size: 2.75em 2em, 2.75em 2em;
   background-repeat: repeat-x;
-  animation: olhos 2s cubic-bezier(.8,.02,-2,.96) infinite alternate;
-}
-
-/* keyframes para os olhos (muda a altura do fundo) */
-@keyframes olhos {
-  to {
-    background-size: 2.75em 1.5em, 2.75em 1.5em;
-  }
 }
 
 /* ORELHAS */
